@@ -1,0 +1,3 @@
+# Ignore build binary, build with `go build -o`
+main
+anasync
