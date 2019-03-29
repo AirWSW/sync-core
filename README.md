@@ -96,4 +96,5 @@ https://github.com/ehouse/mirrors
 
 ## License
 
-Sync Core is released under the GNU General Public License v3.0.
+[Sync Core](https://github.com/AirWSW/sync-core) is released under the 
+[GNU General Public License v3.0](https://github.com/AirWSW/sync-core/blob/master/LICENSE).
